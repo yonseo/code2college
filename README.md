@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Pico
 ====
 
@@ -255,3 +256,7 @@ Official Pico Contributors won't claim bounties on their own behalf, Pico will n
 [EditUserDocs]: https://github.com/picocms/picocms.github.io/tree/master/_docs
 [EditDevDocs]: https://github.com/picocms/picocms.github.io/tree/master/_development
 [Bountysource]: https://www.bountysource.com/teams/picocms
+=======
+# code2college
+A blog website using Pico CMS
+>>>>>>> 520de6fcde15d1e9719a6cbced4d53b7eb4faf95
